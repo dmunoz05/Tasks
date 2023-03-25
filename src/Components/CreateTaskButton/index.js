@@ -5,7 +5,6 @@ import './CreateTaskButton.css';
 function CreateTaskButton(props) {
 
     const onClickButton = () => {
-        debugger;            
         props.setOpenModal(prevState => !prevState);                   
     }
  

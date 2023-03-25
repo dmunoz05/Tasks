@@ -55,13 +55,12 @@ function TaskProvider(props) {
         saveTask(newTasks);
     }
 
-    console.log('Rende (antes del usuEffect)');
+    
 
     useEffect(() => {
-        console.log('use effect')
+        
     }, [totalTask]);
-
-    console.log('Rende (luego del usuEffect)');
+    
 
 
     return (
