@@ -22,5 +22,5 @@ Aplicación de control de tareas Front end en React, diseño amigable y sencillo
 
 - Ingresa las tareas que desees gestionar
 - Presiona en el " ✔ " las tareas completadas 
-- Presiona en la "** x**" las tareas que desees eliminar 
-- Presiona en el "**+**" las tareas que desees añadir y guardalas.
+- Presiona en la " ❌ " las tareas que desees eliminar 
+- Presiona en el " ➕ " las tareas que desees añadir y guardalas.
