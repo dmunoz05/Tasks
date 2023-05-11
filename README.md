@@ -12,7 +12,7 @@ Aplicación de control de tareas Front end en React, diseño amigable y sencillo
 
 
 # Instalación
-- git clone https://github.com/dmunoz05/Task-React.git
+- git clone https://github.com/dmunoz05/Task.git
 
 - npm install 
 
